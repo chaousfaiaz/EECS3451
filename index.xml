@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.003 , Quiz 1 Solutions, Fall 2011</title>
+      <link>/resources/mit6_003f11_q1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q1_sol/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 1 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam Solutions , Spring 2010</title>
+      <link>/resources/mit6_003f11_s10final_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10final_sol/data.json</guid>
+      <description>This file contains information regarding spring 2010 final exam.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam Solutions, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09final_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09final_sol/data.json</guid>
+      <description>This file contains information regarding fall 2009 final exam solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam Solutions, Fall 2011</title>
+      <link>/resources/mit6_003f11_final_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_final_sol/data.json</guid>
+      <description>This file contains information regarding fall 2011 final exam solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09final/data.json</guid>
+      <description>This file contains information regarding fall 2009 final exam.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam, Fall 2011</title>
+      <link>/resources/mit6_003f11_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_final/data.json</guid>
+      <description>This file contains information regarding fall 2011 final exam.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Final Exam, Spring 2010</title>
+      <link>/resources/mit6_003f11_s10final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10final/data.json</guid>
+      <description>This file contains information regarding spring 2010 final exam.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 1 Solutions, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q1_sol/data.json</guid>
+      <description>This file contains information regarding fall 2009 quiz 1 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 1 Solutions, Spring 2010</title>
+      <link>/resources/mit6_003f11_s10q1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10q1_sol/data.json</guid>
+      <description>This file contains information regarding fall spring 2010 quiz 1 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 1, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q1/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 1, Fall 2011</title>
+      <link>/resources/mit6_003f11_q1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q1/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 1.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 1, Spring 2010</title>
+      <link>/resources/mit6_003f11_s10q1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10q1/data.json</guid>
+      <description>This file contains information regarding spring 2010 quiz 1.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2 Solutions, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q2_sol/data.json</guid>
+      <description>This file contains information regarding fall 2009 quiz 2 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2 Solutions, Fall 2011</title>
+      <link>/resources/mit6_003f11_q2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q2_sol/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 2 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2 Solutions, Spring 2010</title>
+      <link>/resources/mit6_003f11_s10q2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10q2_sol/data.json</guid>
+      <description>This file contains information regarding spring 2010 quiz 2 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q2/data.json</guid>
+      <description>This file contains information regarding fall 2009 quiz 2.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2, Fall 2011</title>
+      <link>/resources/mit6_003f11_q2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q2/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 2.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 2, Spring 2010</title>
+      <link>/resources/mit6_003f11_s10q2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_s10q2/data.json</guid>
+      <description>This file contains information regarding spring 2010 quiz 2.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 3 Solutions, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q3_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q3_sol/data.json</guid>
+      <description>This file contains information regarding fall 2009 quiz 3 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 3 Solutions, Fall 2011</title>
+      <link>/resources/mit6_003f11_q3_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q3_sol/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 3 solutions.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 3, Fall 2009</title>
+      <link>/resources/mit6_003f11_f09q3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_f09q3/data.json</guid>
+      <description>This file contains information regarding fall 2009 quiz 3.</description>
+    </item>
+    
+    <item>
+      <title>6.003 Quiz 3, Fall 2011</title>
+      <link>/resources/mit6_003f11_q3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_003f11_q3/data.json</guid>
+      <description>This file contains information regarding fall 2011 quiz 3.</description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Exams from previous years (Spring 2010 and Fall 2009) are provided for review purposes; Quiz 3 from Spring 2010 covers different topics and therefore has been omitted.
+Exams Fall 2011 Spring 2010 Fall 2009 Quiz 1 Quiz 1 Fall 2011 (PDF) Quiz 1 Spring 2010 (PDF) Quiz 1 Fall 2009 (PDF) Quiz 1 Solutions Quiz 1 Solution Fall 2011 (PDF) Quiz 1 Solution Spring 2010 (PDF) Quiz 1 Solution Fall 2009 (PDF) Quiz 2 Quiz 2 Fall 2011 (PDF) Quiz 2 Spring 2010 (PDF) Quiz 2 Fall 2009 (PDF) Quiz 2 Solutions Quiz 2 Solution Fall 2011 (PDF) Quiz 2 Solution Spring 2010 (PDF) Quiz 2 Solution Fall 2009 (PDF) Quiz 3 Quiz 3 Fall 2011 (PDF) None Quiz 3 Fall 2009 (PDF) Quiz 3 Solutions Quiz 3 Solution Fall 2011 (PDF) None Quiz 3 Solution Fall 2009 (PDF) Final Exam Final Exam Fall 2011 (PDF) Final Exam Spring 2010 (PDF) Final Exam Fall 2009 (PDF) Final Exam Solutions Final Exam Solution Fall 2011 (PDF) Final Exam Solution Spring 2010 (PDF) Final Exam Solution Fall 2009 (PDF) </description>
+    </item>
+    
+  </channel>
+</rss>
